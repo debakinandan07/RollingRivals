@@ -21,5 +21,3 @@ A fun web-based dice game using HTML, CSS, and JavaScript.
 2. From second visit onward, every browser refresh rolls the dice
 3. Dice faces update visually using DOM
 4. The winner is shown via text and emojis
-
-## 📁 Project Structure
