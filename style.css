@@ -20,7 +20,6 @@ body {
   text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 header {
@@ -141,8 +140,7 @@ footer {
   body {
     text-align: center;
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+  flex-direction: column;
   }
 
   header {
@@ -179,8 +177,7 @@ footer {
   body {
     text-align: center;
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+  flex-direction: column;
   }
 
   header {
@@ -217,8 +214,7 @@ footer {
   body {
     text-align: center;
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+  flex-direction: column;
   }
 
   header {
