@@ -11,7 +11,7 @@ function rollDice(ballsArray, value){
       for (let i = 0; i <= 5; i++) {
         ballsArray[i].classList.remove("balls");
       }
-      ballsArray[6].style.backgroundColor = "white";
+      ballsArray[6].style.backgroundColor = "#EEEEEE";
     } else if (value === 2) {
       for (let i = 0; i <= 5; i++) {
         if (i !== 2 && i !== 3) {
@@ -24,7 +24,7 @@ function rollDice(ballsArray, value){
           ballsArray[i].classList.remove("balls");
         }
       }
-      ballsArray[6].style.backgroundColor = "white";
+      ballsArray[6].style.backgroundColor = "#EEEEEE";
     } else if (value === 4) {
       for (let i = 0; i <= 5; i++) {
         if (i === 1 || i === 4) {
@@ -37,7 +37,7 @@ function rollDice(ballsArray, value){
           ballsArray[i].classList.remove("balls");
         }
       }
-      ballsArray[6].style.backgroundColor = "white";
+      ballsArray[6].style.backgroundColor = "#EEEEEE";
     }
 }
 
