@@ -8,9 +8,6 @@ A fun web-based dice game using HTML, CSS, and JavaScript.
 - Winner declared using emojis (🚩 / 🤝)
 - Clean and responsive layout with colored dice dots
 
-## 🚀 Demo
-> *(Add screenshot or GitHub Pages link here)*
-
 ## 🔧 Technologies Used
 - HTML5
 - CSS3
